@@ -15,7 +15,7 @@ Our mission is to place collaborative learning at the heart of education, utiliz
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Instructions](#instructions)
-- 
+- [Team Members](#Team Members)
 - [Contact](#contact)
 
 ---
@@ -70,7 +70,7 @@ Our mission is to place collaborative learning at the heart of education, utiliz
 
 ---
 
-### Teams Members:
+### Teams Members
 
 - **Prithvi Ragavendiran R** - IIIrd Year EEE - CIT Chennai
 - **Surya Prabhakaran V P**  - IIIrd Year CSE - CIT Chennai
