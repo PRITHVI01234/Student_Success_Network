@@ -4,8 +4,6 @@ Welcome to the Student Success Network, a platform designed to facilitate seamle
 
 Our mission is to place collaborative learning at the heart of education, utilizing cutting-edge AI to transform how students learn and interact with their mentors and peers. By fostering a supportive and interactive educational environment, we aim to help students unlock their full potential and achieve academic success.
 
-
-
 ![Project Image Placeholder](image.png)
 
 ---
@@ -15,11 +13,11 @@ Our mission is to place collaborative learning at the heart of education, utiliz
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Instructions](#instructions)
-- [Teams Members](#Teams-Members)
+- [Demo and Website](#demo-and-website)
+- [Team Members](#team-members)
 - [Contact](#contact)
 
 ---
-
 
 ## Features
 
@@ -70,12 +68,23 @@ Our mission is to place collaborative learning at the heart of education, utiliz
 
 ---
 
-## Teams Members
+## Demo and Website
+
+- **Demo Video**: [Watch our demo video](https://drive.google.com/file/d/1gPR_R-Tx23l2V95oyK3N4YeENL6A2VXE/view?usp=sharing)
+- **Website**: [Visit our website](https://studentsuccessnetwork.streamlit.app/)
+
+*Note: Test out the website using the provided `test_data.csv` file to explore the platform's features and functionalities.*
+
+---
+
+## Team Members
 
 - **Prithvi Ragavendiran R** - IIIrd Year EEE - CIT Chennai
-- **Surya Prabhakaran V P**  - IIIrd Year CSE - CIT Chennai
-- **Koushik N**              - IIIrd Year EEE - CIT Chennai
-- **Prajen S K**             - IIIrd Year EEE - CIT Chennai
+- **Surya Prabhakaran V P** - IIIrd Year CSE - CIT Chennai
+- **Koushik N** - IIIrd Year EEE - CIT Chennai
+- **Prajen S K** - IIIrd Year EEE - CIT Chennai
+
+---
 
 ## Contact
 
