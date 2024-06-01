@@ -71,7 +71,7 @@ Our mission is to place collaborative learning at the heart of education, utiliz
 ## Demo and Website
 
 - **Demo Video**: [Watch our demo video](https://drive.google.com/file/d/1gPR_R-Tx23l2V95oyK3N4YeENL6A2VXE/view?usp=sharing)
-- **Website**: [Visit our website](https://studentsuccessnetwork.streamlit.app/)
+- **Project Website**: [Visit the project website](https://studentsuccessnetwork.streamlit.app/)
 
 *Note: Test out the website using the provided `test_data.csv` file to explore the platform's features and functionalities. The machine learning model has been trained with parameters corresponding to these data to make predictions.*
 
