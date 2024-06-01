@@ -2,7 +2,10 @@
 
 ## Welcome to the Student Success Network!
 
-Welcome to the **Student Success Network**, a platform designed to facilitate seamless communication and collaboration between students, advisors, and administrators. Our team has developed this project for the **HumanAIze Hackathon**, aiming to revolutionize educational technology with innovative AI solutions. The Student Success Network is more than just an educational tool; it's a comprehensive ecosystem designed to enhance the learning experience, making it richer, more engaging, and personalized for every student.
+Welcome to the **"Student Success Network"**, a platform designed to facilitate seamless communication and collaboration between students, advisors, and administrators. Our team has developed this project for the **HumanAIze Hackathon**, aiming to revolutionize educational technology with innovative AI solutions. The Student Success Network is more than just an educational tool; it's a comprehensive ecosystem designed to enhance the learning experience, making it richer, more engaging, and personalized for every student.
+
+Our mission is to place collaborative learning at the heart of education, utilizing cutting-edge AI to transform how students learn and interact with their mentors and peers. By fostering a supportive and interactive educational environment, we aim to help students unlock their full potential and achieve academic success.
+
 
 
 ![Project Image Placeholder](image.png)
