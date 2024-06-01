@@ -15,7 +15,7 @@ Our mission is to place collaborative learning at the heart of education, utiliz
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Instructions](#instructions)
-- [Teams Members](#Teams Members)
+- [Teams Members](#Teams-Members)
 - [Contact](#contact)
 
 ---
